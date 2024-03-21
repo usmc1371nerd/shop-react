@@ -15,7 +15,7 @@ export function Shop(){
             {items.map(item => (
                 <div className="item" key={item.name}>
                     <h2>{item.name}</h2>
-                    <h3>{item.price}</h3>
+                    <h3>{item.price}</h3> 
                 </div>
             ))}
             
