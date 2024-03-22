@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+   
+    
+}
+
+.title{
+    background-color: teal;
+    width: fit-content;
+    margin-left:50%;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+.welcome-title{
+    background-color: red;
+    width: fit-content;
+    margin-left:40%;
+    padding: 10px;
+    border-radius: 15px;
+}
