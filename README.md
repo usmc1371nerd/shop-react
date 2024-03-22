@@ -1,8 +1,9 @@
 Getting Familar with REACT again!!
 
-dependicies I installed:
+dependicies I installed for local development:
 
 react-router-dom (used Hashrouter for pages)
+MUI library use npm install @mui/material @emotion/react @emotion/styled (I installed all dependencies)
 
 
 This is a mock store front idea. Nothing will be functional just going throught the basics of setting up a project.. Adding pages to the project. Also getting better with version control, I will push code and create a merge request to myself. I will then approve it as if I was adding from another branch, and merging it into a project for code review. 
